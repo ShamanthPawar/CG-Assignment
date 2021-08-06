@@ -1,1 +1,1 @@
-# CG-Assignment
+# CG-Assignment (Mini Project) - Taj Mahal
